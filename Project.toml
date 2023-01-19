@@ -1,0 +1,7 @@
+name = "CommonSolveEquations"
+uuid = "42381ded-7106-412b-a37f-1a151d03889a"
+authors = ["Olivier Cots <olivier.cots@enseeiht.fr>"]
+version = "0.1.0"
+
+[deps]
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
