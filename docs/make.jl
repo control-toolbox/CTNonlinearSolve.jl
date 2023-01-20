@@ -1,8 +1,8 @@
 using Documenter
-using CommonSolveEquations
+using CTNonlinearSolve
 
 makedocs(
-    sitename = "CommonSolveEquations.jl",
+    sitename = "CTNonlinearSolve.jl",
     format = Documenter.HTML(prettyurls = false),
     pages = [
         "Introduction" => "index.md",
@@ -11,6 +11,6 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/control-toolbox/CommonSolveEquations.jl.git",
+    repo = "github.com/control-toolbox/CTNonlinearSolve.jl.git",
     devbranch = "main"
 )

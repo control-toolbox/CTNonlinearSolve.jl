@@ -1,4 +1,4 @@
-# CommonSolveEquations.jl 
+# CTNonlinearSolve.jl 
 
 ## Overview
 This package is ...

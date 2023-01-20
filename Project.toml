@@ -1,4 +1,4 @@
-name = "CommonSolveEquations"
+name = "CTNonlinearSolve"
 uuid = "42381ded-7106-412b-a37f-1a151d03889a"
 authors = ["Olivier Cots <olivier.cots@enseeiht.fr>"]
 version = "0.1.0"

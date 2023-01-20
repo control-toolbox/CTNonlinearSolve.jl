@@ -1,8 +1,8 @@
-using CommonSolveEquations
+using CTNonlinearSolve
 using Test
 
 #
-@testset verbose = true showtiming = true "CommonSolveEquations" begin
+@testset verbose = true showtiming = true "CTNonlinearSolve" begin
     for name in (
         "foo",
         )
